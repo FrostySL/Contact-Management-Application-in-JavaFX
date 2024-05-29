@@ -8,4 +8,4 @@ Delete Contacts: Remove a contact from the list.
 Email Validation: Ensures email addresses are valid using a regex pattern.
 
 ## Feedback and Contributions:
-This is my first JavaFX program, and I'm open to all the tips and advice you might have. Feel free to fork the repository, make improvements, and submit pull requests. Your feedback is highly appreciated!
+This is my first JavaFX program, and I´m new to GitHub. I'm open to all the tips and advice you might have. Feel free to fork the repository, make improvements, and submit pull requests. Your feedback is highly appreciated!
